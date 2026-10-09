@@ -43,7 +43,7 @@ The following inputs are **not** included in this repository because they derive
 - Raw CNKI search exports (`.xls` files per year) and the raw merged/cleaned record files that contain **full abstracts** of the retrieved articles (`_merged_raw.csv`, `_clean_records.csv`);
 - Raw CNKI citation-count retrievals.
 
-The repository contains the derived, article-level analysis data (titles, journals, years, paradigm labels, model variables) which are sufficient to reproduce all analyses and tables in the manuscript. Full abstracts and the raw export files are available from the corresponding author (Xinyuan Lu, luxy@ccnu.edu.cn) on reasonable request, subject to CNKI's terms.
+The repository contains the derived, article-level analysis data (titles, journals, years, paradigm labels, model variables) which are sufficient to reproduce all analyses and tables in the manuscript. Full abstracts and the raw export files are available from the first author (Runzhe Wang, wangrunz@mails.ccnu.edu.cn) on reasonable request, subject to CNKI's terms.
 
 ## Reproducibility notes
 
